@@ -114,8 +114,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 python-json-logger==3.3.0
 pytz==2025.2
-pywin32==311
-pywin32-ctypes==0.2.3
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==27.0.0
@@ -159,3 +157,12 @@ webencodings==0.5.1
 websocket-client==1.8.0
 whitenoise==6.9.0
 zstandard==0.24.0
+Django==5.2
+gunicorn==22.0.0
+whitenoise==6.7.0
+psycopg2-binary==2.9.10
+python-decouple==3.8
+Pillow==10.4.0
+django-crispy-forms==2.2
+crispy-bootstrap5==2024.1
+django-allauth==0.63.1
