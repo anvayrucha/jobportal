@@ -7,3 +7,4 @@ Pillow==10.4.0
 django-crispy-forms==2.4   # EVEN NEWER VERSION
 crispy-bootstrap5==2025.6 
 django-allauth==0.63.1 
+dj-database-url==2.1.0 
