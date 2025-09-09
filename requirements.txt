@@ -9,3 +9,5 @@ crispy-bootstrap5==2025.6
 django-allauth==0.63.1 
 dj-database-url==2.1.0 
 python-dotenv==1.1.1 
+djangorestframework==3.15.2   # ADD THIS LINE
+djangorestframework-simplejwt==5.4.0   # ADD THIS LINE
